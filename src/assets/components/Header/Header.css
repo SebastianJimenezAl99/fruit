@@ -1,0 +1,29 @@
+.head{
+    background-color: #3dbeff ;
+    padding: 0px;
+    margin: 0px;
+}
+
+.encabezado{
+    display: flex;
+    justify-content: space-between;
+    padding: 0%;
+} 
+
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    padding: 0%;
+}
+
+.lista{
+    display: flex;
+    justify-content: space-between;
+    margin: 5% ;
+}
+
+.orange {
+    width:  100%;
+    height: 20%;
+}
