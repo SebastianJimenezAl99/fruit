@@ -1,4 +1,5 @@
 import './App.css'
+import ImageMessege from './components/imageMessege/ImageMessege'
 
 function App() {
 
@@ -41,6 +42,7 @@ function App() {
       </div>
       <div>
         {/* imagenes con texto dentro 2 cuadros */}
+        <ImageMessege />
       </div>
       <div>
         {/* testimonios */}
