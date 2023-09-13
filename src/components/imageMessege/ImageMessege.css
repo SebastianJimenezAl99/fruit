@@ -1,0 +1,18 @@
+.contenedor-imageMessege{
+    display: flex;
+}
+
+
+.div-img-ImageMessege{
+    min-width: 720px;
+    min-height: 600px;
+}
+
+.mandarina-ImageMessege{
+    background-image: url("../../../public/desktop/image-photography.jpg");
+}
+
+.ceresa-ImageMessege{
+    background-image: url("../../../public/desktop/image-graphic-design.jpg");
+    
+}
